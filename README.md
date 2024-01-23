@@ -1,5 +1,16 @@
 ![fuxa logo](/client/src/favicon.ico) 
 # FUXA
+ FUXA 是一款基于 Web 的过程可视化 (SCADA/HMI/Dashboard) 软件。 借助 FUXA，您可以通过针对机器的个性化设计和实时数据显示来创建现代过程可视化。
+
+![fuxa editor](/screenshot/fuxa-editor.png) 
+
+![fuxa ani](/screenshot/fuxa-ani.gif)
+
+![fuxa action](/screenshot/feature-action-move.gif)
+
+
+![fuxa logo](/client/src/favicon.ico) 
+# FUXA
 <div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/frangoteam/FUXA/blob/master/client/src/favicon.ico"><img src="/frangoteam/FUXA/raw/master/client/src/favicon.ico" alt="福萨标志" style="max-width: 100%;"></a></p>
 <h1 tabindex="-1" dir="auto"><a id="user-content-fuxa" class="anchor" aria-hidden="true" tabindex="-1" href="#fuxa"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">福克萨</font></font></h1>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FUXA 是一款基于 Web 的过程可视化 (SCADA/HMI/Dashboard) 软件。</font><font style="vertical-align: inherit;">借助 FUXA，您可以通过针对机器的个性化设计和实时数据显示来创建现代过程可视化。</font></font></p>
